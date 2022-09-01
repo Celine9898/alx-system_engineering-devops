@@ -1,1 +1,1 @@
-life is not periodic
+clean emacs
